@@ -40,7 +40,7 @@ section {
 	overflow: auto;
 }
 
-#pavbhaji {
+#hilsha {
 	border: 3px solid black;
 	text-align: center;
 	width: 30%;
@@ -70,7 +70,7 @@ section {
 	color: #FFFF00;
 }
 
-#panipuri {
+#chingri {
 	border: 3px solid black;
 	text-align: center;
 	width: 30%;
@@ -85,7 +85,7 @@ section {
 	padding: 5px;
 }
 
-#pavbhaji-div {
+#hilsha-div {
   margin-bottom: 10px;
   margin-top: 10px;
 }
@@ -95,7 +95,7 @@ section {
   margin-top: 10px;
 }
 
-#panipuri-div {
+#chimgri-div {
   margin-bottom: 10px;
   margin-top: 10px;
 }
